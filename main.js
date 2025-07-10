@@ -1,4 +1,4 @@
-import * as Three from 'three';
+import * as Three from  "https://unpkg.com/three@0.160.0/build/three.module.js";
 
 
 const w = window.innerWidth;
